@@ -1,3 +1,7 @@
 Hi Juliana
+<<<<<<< HEAD
 How are you?
 I'm ready to go home
+=======
+How are you? 
+>>>>>>> c338c76062c8cb7bf38af39baa90d71851862c9e
